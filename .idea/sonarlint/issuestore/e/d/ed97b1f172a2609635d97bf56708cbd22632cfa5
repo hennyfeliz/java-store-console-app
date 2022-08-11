@@ -1,0 +1,77 @@
+
+g
+java:S1192Y"LDefine a constant instead of duplicating this literal "EXCEPTION: " 6 times.(¢Ñ°İøÿÿÿÿ
+k	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÃ°±ûÿÿÿÿ
+k	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÃ°±ûÿÿÿÿ
+k	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈŸ Œÿÿÿÿÿ
+e	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¾› 
+g	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÑÌô
+g	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¸ØÙ
+g	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öôƒÄ
+g	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öôƒÄ
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½“‰Ê
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½“‰Ê
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½“‰Ê
+g	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìªÎ‚
+f	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îºä|
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â§ÄÖşÿÿÿÿ
+l	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îî•ôıÿÿÿÿ
+g	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¡Û³
+l	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÎÛóşÿÿÿÿ
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´µ´Ãúÿÿÿÿ
+f	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îºä|
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â§ÄÖşÿÿÿÿ
+l	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îî•ôıÿÿÿÿ
+g	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¡Û³
+l	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÎÛóşÿÿÿÿ
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´µ´Ãúÿÿÿÿ
+f
+java:S2095¥"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú
+Q	java:S125"<This block of commented-out lines of code should be removed.(¥ËôÖ
+œ
+java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²ÔÄÅøÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ö×£è
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Àøéå
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Şûàåûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡Œ…úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¡£‹ó
+i
+java:S1659/"NDeclare "contadorProductos" and all following declarations on a separate line.(ÚÃ°±ûÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(¦ûĞØ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ô†ÚÖıÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¯¾È†ıÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(œİĞ˜
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(‰Ï ¨úÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(òä”Ø
+N	java:S106T"9Replace this use of System.out or System.err by a logger.( £Ñ¢
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(·û
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(¢Ñ°İøÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(¢¢«¬üÿÿÿÿ
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(Òªîó
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(¢Ñ°İøÿÿÿÿ
+E
+java:S1659z"0Declare "nombreProducto_new" on a separate line.(ä¾› 
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(¦‘ƒöúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å¦šŸ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(¤¾õŞıÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(¢Ñ°İøÿÿÿÿ
+H
+java:S1659’"1Declare "precio_tot_producto" on a separate line.(öôƒÄ
+a
+java:S1659“"JDeclare "codigo_tienda" and all following declarations on a separate line.(½“‰Ê
+R	java:S125•"<This block of commented-out lines of code should be removed.(¨†©ú
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(Æ¦ø—ûÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(¢Ñ°İøÿÿÿÿ
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(Ü€”Ö
+O	java:S106Ä"9Replace this use of System.out or System.err by a logger.(Ÿ¡ûË
+T	java:S106Î"9Replace this use of System.out or System.err by a logger.(³»»×ıÿÿÿÿ
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(¥Şğ¼
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(¢Ñ°İøÿÿÿÿ
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(Ÿ¡ûË
+T	java:S106ç"9Replace this use of System.out or System.err by a logger.(³»»×ıÿÿÿÿ
+R	java:S125é"<This block of commented-out lines of code should be removed.(¥Şğ¼
+T	java:S106ì"9Replace this use of System.out or System.err by a logger.(¢Ñ°İøÿÿÿÿ
+P
+java:S3400ò"9Remove this method and declare a constant for this value.(’€øµ

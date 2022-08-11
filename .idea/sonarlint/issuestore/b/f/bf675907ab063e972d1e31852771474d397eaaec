@@ -1,0 +1,21 @@
+
+r
+java:S1104
+"PMake conn a static final constant or non-public and provide accessors if needed.(Û«êßúÿÿÿÿ8óşÂä¨0
+p
+java:S1104"SMake scanner a static final constant or non-public and provide accessors if needed.(ı¯ã8óşÂä¨0
+r
+java:S1104"UMake statement a static final constant or non-public and provide accessors if needed.(şé­Æ8óşÂä¨0
+o
+java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(ÿí”Ô8óşÂä¨0
+L
+java:S1444
+"*Make this "public static conn" field final(Û«êßúÿÿÿÿ8 ÈŞä¨0
+J
+java:S1444"-Make this "public static scanner" field final(ı¯ã8‰£Öä¨0
+L
+java:S1444"/Make this "public static statement" field final(şé­Æ8¦—Ûä¨0
+I
+java:S1444",Make this "public static result" field final(ÿí”Ô8¦—Ûä¨0
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¬‡•¬8 ÈŞä¨0

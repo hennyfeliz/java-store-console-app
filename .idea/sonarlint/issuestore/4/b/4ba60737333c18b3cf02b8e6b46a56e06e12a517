@@ -1,0 +1,41 @@
+
+n
+java:S1192N"LDefine a constant instead of duplicating this literal "EXCEPTION: " 3 times.(¢Ñ°İøÿÿÿÿ8ôÿœä¨0
+r	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á°è•ÿÿÿÿÿ8°Î˜ä¨0
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼åòéúÿÿÿÿ8¥®›ä¨0
+m	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ù¤Ë8¥®›ä¨0
+m	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¢ë°8¥®›ä¨0
+m	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ÿ‚Á8¥®›ä¨0
+m	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™æÔÔ8ƒ€ä¨0
+m	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é•¦á8ƒ€ä¨0
+r	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÕóÿÿÿÿÿ8ƒ€ä¨0
+n	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìªÎ‚8ˆñŸä¨0
+
+java:S14889"]Immediately return this expression instead of assigning it to the temporary variable "value".(Õ—©ãÿÿÿÿÿ8°Î˜ä¨0
+{
+java:S1488Œ"]Immediately return this expression instead of assigning it to the temporary variable "value".(ÆçĞ½8—ñŸä¨0
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ûå¡øÿÿÿÿ8“€ä¨0
+V
+java:S1118":Add a private constructor to hide the implicit public one.(ıÏ†y8°Î˜ä¨0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¢šİÿÿÿÿÿ8°Î˜ä¨0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(âşÀ÷üÿÿÿÿ8µ®›ä¨0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡Œ…úÿÿÿÿ8µ®›ä¨0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ8µ®›ä¨0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¡£‹ó8“€ä¨0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(¹ñ¨€ÿÿÿÿÿ8“€ä¨0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(»Ä¢8“€ä¨0
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(³»»×ıÿÿÿÿ8“€ä¨0
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(¢Ñ°İøÿÿÿÿ8“€ä¨0
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(—¦—8“€ä¨0
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(íÛÔûúÿÿÿÿ8“€ä¨0
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(¢Ñ°İøÿÿÿÿ8¿ñŸä¨0
+K
+java:S1659k".Declare "nombreTienda_new" on a separate line.(é•¦á8“€ä¨0
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(öú“şÿÿÿÿ8¨ë¦ä¨0
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(û€Í8¨ë¦ä¨0
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(ğ³ëÌ8¨ë¦ä¨0
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(¢Ñ°İøÿÿÿÿ8¨ë¦ä¨0
+\
+java:S3400ƒ"9Remove this method and declare a constant for this value.(¢ãÕÖşÿÿÿÿ8˜ğä¨0
+V	java:S106‰"9Replace this use of System.out or System.err by a logger.(Ü€”Ö8¨ë¦ä¨0
