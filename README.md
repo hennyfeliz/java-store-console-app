@@ -3,10 +3,10 @@
 
 | Productos | Empleados | Tiendas |
 | ------------- | ------------- |------------- |
-| Mostrar producto(s)  | Mostrar empleado(s)  | Mostrar tienda(s)  |
-| Insertar producto(s)  | Insertar empleado(s)  | Insertar tienda(s)  |
-| Actualizar producto(s)  | Actualizar empleado(s)  |Contenido de la celda  
-| Borrar producto(s)  | Eliminar empleado(s)  |Contenido de la celda  
-| Mandar producto(s)  |   |Contenido de la celda  
+| show product(s)  | show employee(s)  | show store(s)  |
+| insert product(s)  | insert employee(s)  | insert store(s)  |
+| Update product(s)  | update employee(s)  |Contenido de la celda  
+| delete product(s)  | delete employee(s)  |Contenido de la celda  
+| send product(s)  |   |Contenido de la celda  
 |   |   |Contenido de la celda  
 
