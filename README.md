@@ -5,8 +5,8 @@
 | ------------- | ------------- |------------- |
 | show product(s)  | show employee(s)  | show store(s)  |
 | insert product(s)  | insert employee(s)  | insert store(s)  |
-| Update product(s)  | update employee(s)  |Contenido de la celda  
-| delete product(s)  | delete employee(s)  |Contenido de la celda  
-| send product(s)  |   |Contenido de la celda  
-|   |   |Contenido de la celda  
+| Update product(s)  | update employee(s)  | update store  
+| delete product(s)  | delete employee(s)  | delete store  
+| send product(s)  |   |  See lost products
+|   |   | See products from that storea  
 
